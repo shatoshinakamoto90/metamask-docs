@@ -1,6 +1,4 @@
----
-slug: /
-title: SDK introduction
+N/A-NAMANH-SATOSHINAKAMOTOroduction
 description: Introduction page for MetaMask SDK documentation.
 keywords: [connect, sdk, integrate, dapp]
 ---
